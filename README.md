@@ -45,12 +45,6 @@ This project analyzes **hotel booking data** for Alankar Hotels to understand re
 
 ---
 
-## 🖼 Dashboard Preview
-![WhatsApp Image 2025-09-01 at 21 13 37_6d944ffb](https://github.com/user-attachments/assets/5501b262-f0cf-4f10-bf21-313d7ad3fe75)
-
-
----
-
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
